@@ -1,4 +1,6 @@
 vless://0f36829b-a24c-440a-bcc1-6a18429857fb@www.speedtest.net:8443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=&sni=tls1.vipfast1.xyz#Grpcall.1-Lavasani1
 vless://bcf7a33e-582b-4f15-a019-88a7dd77a9ca@www.zula.ir:2096?type=grpc&serviceName=&security=tls&fp=firefox&alpn=&sni=tls1.vipfast1.xyz#Grpcall.2-Lavasani2
+vless://e47988b4-c91b-4c03-9dbd-5ca3984e5bd3@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=ios1.iranamozesh.online&type=ws#Ws%28all%291-Lavasani3
+vless://7513b399-ecab-4378-8fe0-fca313924219@www.zula.ir:2095?path=%2F&security=none&encryption=none&host=ios1.iranamozesh.online&type=ws#Ws%28all%292-Lavasani4
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aFgwYnloUkIvRWhxTzlwK1NxMmU3ZnNGbHVBUWpBNHVvdjlKMVRrdTFUYz06bnBzOTlQR1EwcTNKYmo1dmFGdThEQ2kwaENFRVdRaHJMQUppa2ZoU3Z6Yz0@all1.iranamozesh.online:31440?type=tcp#Shadowsocks(all)1-Lavasani5
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206S0RnWW5NN2dmdHdqYTJBa1o1cThrd1RvRTNkelQ1aWRvUE1QMllJVzhTUT06cC9Sc2htV1l6NnVlNWQxVVljYS9pNUE4OUVlWStNQW9LSVV6cUR5VVRFRT0@all1.iranamozesh.online:36539?type=tcp#Shadowsocks(all)2-Lavasani6
