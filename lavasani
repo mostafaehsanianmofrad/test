@@ -1,8 +1,3 @@
-vless://7de3b139-49b5-4d52-b6f1-8a8cdb818ed1@49.12.216.148:27725?type=httpupgrade&path=%2F&host=&security=none#vip1-lavasani
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SmcyR3Vya3lyTDZ4dkhaU2JmNkNDNHp4a3Z1WVBUdVB2aEx0dGkwcmxqMD06bWlzMVVpTlRUeHMrcWZCd3c4cndKWDNkMWk4cm5yc2JFUllxU1RaSlBIWT0@49.12.216.148:34443?type=tcp#Vip2-lavasani2
-vless://a3ffe455-ce3f-4eef-b7cf-aac0764906f2@49.12.216.148:30541?type=tcp&path=%2F&headerType=http&security=none#Vip3-lavasani3
-vless://d3a93ccf-d2e0-4275-8228-7ec61714c08a@49.12.216.148:24197?type=tcp&security=reality&pbk=cwjl4pxkaA869NYxUyTpU2E5mRRgXzwbdlrH2euEyTw&fp=chrome&sni=wordpress.org&sid=6460b2fa&spx=%2F#Vip4-lavasani4
-vless://8b337bd1-b0bd-4943-a5e1-04c2317835ed@49.12.216.148:34995?type=tcp&security=reality&pbk=IRli1N-lBiGw_EH3eR0MzNb6k-ldRBXKQJr-3B3Gqkc&fp=firefox&sni=radar.game&sid=030d79b2&spx=%2F#Vip5-lavasani5
 vless://cd3e8d46-0d46-4a93-8d83-fedd60606c07@185.146.173.94:443?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=tls1.iranamozesh.online#Tls1(%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84)-yb4camhi
 vless://56dd2b50-cd7b-4de0-9669-5a38f3b7f816@www.speedtest.net:8443?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=tls1.iranamozesh.online#Tls2(%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84)-bifbzcg3
 vless://f552265b-2103-47e2-af6d-b158e4e92f77@185.146.173.94:8880?type=ws&path=%2F&host=cdn1.iranamozesh.online&security=none#Cdn1(%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%88%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84)-Nima8
